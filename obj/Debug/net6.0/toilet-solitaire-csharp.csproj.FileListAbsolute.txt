@@ -1,0 +1,15 @@
+D:\Documents\Programming\toilet-solitaire-csharp\obj\Debug\net6.0\toilet-solitaire-csharp.csproj.AssemblyReference.cache
+D:\Documents\Programming\toilet-solitaire-csharp\obj\Debug\net6.0\toilet-solitaire-csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Programming\toilet-solitaire-csharp\obj\Debug\net6.0\toilet-solitaire-csharp.AssemblyInfoInputs.cache
+D:\Documents\Programming\toilet-solitaire-csharp\obj\Debug\net6.0\toilet-solitaire-csharp.AssemblyInfo.cs
+D:\Documents\Programming\toilet-solitaire-csharp\obj\Debug\net6.0\toilet-solitaire-csharp.csproj.CoreCompileInputs.cache
+D:\Documents\Programming\toilet-solitaire-csharp\bin\Debug\net6.0\toilet-solitaire-csharp.exe
+D:\Documents\Programming\toilet-solitaire-csharp\bin\Debug\net6.0\toilet-solitaire-csharp.deps.json
+D:\Documents\Programming\toilet-solitaire-csharp\bin\Debug\net6.0\toilet-solitaire-csharp.runtimeconfig.json
+D:\Documents\Programming\toilet-solitaire-csharp\bin\Debug\net6.0\toilet-solitaire-csharp.dll
+D:\Documents\Programming\toilet-solitaire-csharp\bin\Debug\net6.0\toilet-solitaire-csharp.pdb
+D:\Documents\Programming\toilet-solitaire-csharp\obj\Debug\net6.0\toilet-solitaire-csharp.dll
+D:\Documents\Programming\toilet-solitaire-csharp\obj\Debug\net6.0\refint\toilet-solitaire-csharp.dll
+D:\Documents\Programming\toilet-solitaire-csharp\obj\Debug\net6.0\toilet-solitaire-csharp.pdb
+D:\Documents\Programming\toilet-solitaire-csharp\obj\Debug\net6.0\toilet-solitaire-csharp.genruntimeconfig.cache
+D:\Documents\Programming\toilet-solitaire-csharp\obj\Debug\net6.0\ref\toilet-solitaire-csharp.dll
